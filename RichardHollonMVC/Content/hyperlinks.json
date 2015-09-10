@@ -1,0 +1,284 @@
+{
+    "items": [
+        {
+            "title": "Visual Studio 2012 - Pre-defined Keyboard Shortcuts",
+            "url": "http://msdn.microsoft.com/en-us/library/vstudio/da5kh0wa.aspx"
+        },
+        {
+            "title": "NuGet Package of the Week #7 - ELMAH (Error Logging Modules And Handlers) with SQL Server Compact",
+            "url": "http://www.hanselman.com/blog/NuGetPackageOfTheWeek7ELMAHErrorLoggingModulesAndHandlersWithSQLServerCompact.aspx"
+        },
+        {
+            "title": "Melissa Dreams of Sushi",
+            "url": "http://melissadreamsofsushi.com"
+        },
+        {
+            "title": "Texas State Historical Association - Biographies",
+            "url": "http://www.tshaonline.org/category/handbook-subjects-who/biographies"
+        },
+        {
+            "title": "CSS Dock Menu",
+            "url": "http://ndesign-studio.com/blog/css-dock-menu"
+        },
+        {
+            "title": "Testing untestable code thanks to MS Fakes",
+            "url": "http://blog.christopheargento.net/2013/02/02/testing-untestable-code-thanks-to-ms-fakes"
+        },
+        {
+            "title": "Favorite Visual Studio keyboard shortcuts [closed]",
+            "url": "http://stackoverflow.com/questions/98606/favorite-visual-studio-keyboard-shortcuts"
+        },
+        {
+            "title": "Amir Rajan's blog",
+            "url": "http://amirrajan.net"
+        },
+        {
+            "title": "How to create a simple blog using ASP.NET MVC - Part I",
+            "url": "http://www.prideparrot.com/blog/archive/2012/12/how_to_create_a_simple_blog_part1"
+        },
+        {
+            "title": "Darin Dimitrov Blog - dev. Bratched.com [en]",
+            "url": "http://dev.bratched.com/en/author/darin"
+        },
+        {
+            "title": "Richard Szalay Blog",
+            "url": "http://blog.richardszalay.com"
+        },
+        {
+            "title": "Reserved Keywords (Transact-SQL) - SQL Server 2012",
+            "url": "http://technet.microsoft.com/en-us/library/ms189822.aspx"
+        },
+        {
+            "title": "SQL Server 2012 - Express Edition",
+            "url": "http://www.microsoft.com/en-us/sqlserver/editions/2012-editions/express.aspx"
+        },
+        {
+            "title": "Shared Assembly Info in Visual Studio Projects",
+            "url": "http://blogs.msdn.com/b/jjameson/archive/2009/04/03/shared-assembly-info-in-visual-studio-projects.aspx"
+        },
+        {
+            "title": "Models and Model Binders in MVC Applications",
+            "url": "http://msdn.microsoft.com/en-us/library/dd410405%28v=vs.90%29.aspx"
+        },
+        {
+            "title": "SQL Execution Plan Basics by Grant Fritchey",
+            "url": "https://www.simple-talk.com/sql/performance/execution-plan-basics"
+        },
+        {
+            "title": "Grant Fritchey SQL Server MVP, Red Gate Software Product Evangelist",
+            "url": "https://www.simple-talk.com/author/grant-fritchey"
+        },
+        {
+            "title": "Phil Haack's blog",
+            "url": "http://haacked.com"
+        },
+        {
+            "title": "Scott Hanselman's blog",
+            "url": "http://www.hanselman.com/blog"
+        },
+        {
+            "title": "Jimmy Bogard - Los Techies",
+            "url": "http://lostechies.com/jimmybogard"
+        },
+        {
+            "title": "Jeffrey Palermo's blog",
+            "url": "http://jeffreypalermo.com"
+        },
+        {
+            "title": "David Gardiner's blog",
+            "url": "http://david.gardiner.net.au"
+        },
+        {
+            "title": "Tofugu - Japanese Language and Culture",
+            "url": "http://www.tofugu.com"
+        },
+        {
+            "title": "Koyoshi (Sushi) - Osaka Japan",
+            "url": "https://www.facebook.com/pages/Koyoshi-Sushi-Osaka/147743168653244"
+        },
+        {
+            "title": "What's wrong with modern wheat?",
+            "url": "http://www.grainstorm.com/pages/modern-wheat"
+        },
+        {
+            "title": "Tess Ferrandez - If broken it is, fix it you should",
+            "url": "http://blogs.msdn.com/b/tess"
+        },
+        {
+            "title": "How to convert an ASP.NET Web Forms web application into ASP.NET MVC 3",
+            "url": "http://www.britishdeveloper.co.uk/2011/05/convert-web-forms-mvc3-how-to.html"
+        },
+        {
+            "title": "C# Language Specification 5.0",
+            "url": "http://www.microsoft.com/en-us/download/confirmation.aspx?id=7029"
+        },
+        {
+            "title": "Byte Rot by Aliostad",
+            "url": "http://byterot.blogspot.com"
+        },
+        {
+            "title": "Escape from Camp 14 by Blaine Harden",
+            "url": "http://www.slideshare.net/arion2012/escape-from-camp-14"
+        },
+        {
+            "title": "Ayende @ Rahien - Refunds available at head office",
+            "url": "http://ayende.com/Blog"
+        },
+        {
+            "title": "Steven Sanderson's blog - As seen on YouTube™",
+            "url": "http://blog.stevensanderson.com"
+        },
+        {
+            "title": "A standing desk for $22",
+            "url": "http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html"
+        },
+        {
+            "title": "Janne in Osaka",
+            "url": "http://janneinosaka.blogspot.jp"
+        },
+        {
+            "title": "Getting Started with ASP.NET MVC 5",
+            "url": "http://www.asp.net/mvc/tutorials/mvc-5/introduction/getting-started"
+        },
+        {
+            "title": "The care and feeding of software engineers (or, why engineers are grumpy) by Nicholas C. Zakas",
+            "url": "http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy"
+        },
+        {
+            "title": "My first go at Bacon Breakfast cups. Nailed it?",
+            "url": "http://www.reddit.com/r/pics/comments/1aln2p/my_first_go_at_bacon_breakfast_cups_nailed_it/c8ymf6j"
+        },
+        {
+            "title": ".NET Addict - A glimpse into the daily affairs of an ASP.NET MVC developer by Nathan Taylor.",
+            "url": "http://blog.nathan-taylor.net"
+        },
+        {
+            "title": "Think Like (a) Git - A Guide For the Perplexed.",
+            "url": "http://www.think-like-a-git.net"
+        },
+        {
+            "title": "Just Bento - The Weekly Bento Planner",
+            "url": "http://www.justbento.com/handbook/downloads/weekly-bento-planner"
+        },
+        {
+            "title": "Can I use... - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.",
+            "url": "http://www.caniuse.com/"
+        },
+        {
+            "title": "AngularJS in 60 Minutes by Dan Wahlin",
+            "url": "http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf"
+        },
+        {
+            "title": "pilhuhn/ZwitscherA · GitHub",
+            "url": "https://github.com/pilhuhn/ZwitscherA"
+        },
+        {
+            "title": "www.mssmallbiz.com/ericligman/Key_Shorts/Windows 7 Keyboard Shortcuts.pdf",
+            "url": "http://www.mssmallbiz.com/ericligman/Key_Shorts/Windows%207%20Keyboard%20Shortcuts.pdf"
+        },
+        {
+            "title": "Surface Pro for Developers | Falafel Software Blog",
+            "url": "http://blog.falafel.com/surface-pro-for-developers/"
+        },
+        {
+            "title": "Asp.net Open PDF File in Web Browser",
+            "url": "http://www.aspdotnet-suresh.com/2012/11/aspnet-open-pdf-file-in-web-browser.html"
+        },
+        {
+            "title": "Frans Rosén (@fransrosen) | Twitter",
+            "url": "https://twitter.com/fransrosen"
+        },
+        {
+            "title": "How to handle browser close event and abandon session in ASP.NET - .Net Articles &amp; Samples",
+            "url": "http://www.devasp.net/net/articles/display/1433.html"
+        },
+        {
+            "title": "DomainDrivenDesignQuicklyOnline.pdf",
+            "url": "file:///C:/Users/rhollon/Downloads/DomainDrivenDesignQuicklyOnline.pdf"
+        },
+        {
+            "title": "Re: [iText-questions] replace text from a pdf file",
+            "url": "http://www.mail-archive.com/itext-questions@lists.sourceforge.net/msg58454.html"
+        },
+        {
+            "title": "sonihal - 1-2-3",
+            "url": "http://www.sonihal.com/1-2-3"
+        },
+        {
+            "title": "mayoff (Rob Mayoff) · GitHub",
+            "url": "https://github.com/mayoff?tab=repositories"
+        },
+        {
+            "title": "Rob Mayoff (@rmayoff) | Twitter",
+            "url": "https://twitter.com/rmayoff"
+        },
+        {
+            "title": "Java design patterns 101",
+            "url": "http://www.ibm.com/developerworks/java/tutorials/j-patterns/j-patterns.html"
+        },
+        {
+            "title": "Protocol Guide - Google Apps — Google Developers",
+            "url": "https://developers.google.com/google-apps/sites/docs/1.0/developers_guide_protocol#UploadingFiles"
+        },
+        {
+            "title": "Just Something Cool (Google Drive and Powershell) | Random Adventures In SharePoint Development",
+            "url": "http://spisnotthedevil.blogspot.com/2013/09/just-something-cool-google-drive-and.html"
+        },
+        {
+            "title": "Coloured directory listings in PowerShell | Avin&#39;s Blog",
+            "url": "http://avinmathew.com/coloured-directory-listings-in-powershell/"
+        },
+        {
+            "title": "The Eisenberg Effect",
+            "url": "http://eisenbergeffect.bluespire.com/"
+        },
+        {
+            "title": "Code a Dynamic Featured Image Gallery Layout using jQuery - SpyreStudios",
+            "url": "http://spyrestudios.com/code-featured-image-gallery-with-jquery/"
+        },
+        {
+            "title": "dynamic layout | jQuery Plugins",
+            "url": "http://jquery-plugins.net/tag/dynamic-layout"
+        },
+        {
+            "title": "C h o w p a p i - Chef writer RL Reeves Jr",
+            "url": "http://chowpapi.com/wordpress/wordpress-2.8.6/wordpress/"
+        },
+        {
+            "title": "Cameron Dwyer | SharePoint, Outlook, OnePlaceMail | Life's Other Little Wonders",
+            "url": "https://camerondwyer.wordpress.com/"
+        },
+        {
+            "title": "Binding to a Managed RAS Server Using ReportAppFactory.OpenDocument() Method",
+            "url": "https://msdn.microsoft.com/en-US/library/ms227361(v=vs.80).aspx"
+        },
+        {
+            "title": "? Gold 104.3 (Melbourne radio)",
+            "url": "http://www.iheart.com/live/gold-1043-6181/"
+        },
+        {
+            "title": "Page Life Cycle With Examples in ASP.Net",
+            "url": "http://www.c-sharpcorner.com/UploadFile/8911c4/page-life-cycle-with-examples-in-Asp-Net/"
+        },
+        {
+            "title": "Fiddler videos",
+            "url": "http://www.telerik.com/videos/fiddler"
+        },
+        {
+            "title": "docs.telerik.com/fiddler/configure-fiddler/tasks/configurefiddler",
+            "url": "http://docs.telerik.com/fiddler/configure-fiddler/tasks/configurefiddler"
+        },
+        {
+            "title": "lib.ruppin.ac.il/multimedia_library/PDF/30251.pdf",
+            "url": "http://lib.ruppin.ac.il/multimedia_library/PDF/30251.pdf"
+        },
+        {
+            "title": "github/gitignore",
+            "url": "https://github.com/github/gitignore"
+        },
+        {
+            "title": "Windows Essentials - Download Windows Live Essentials",
+            "url": "http://windows.microsoft.com/en-us/windows-live/essentials"
+        }
+    ]
+}

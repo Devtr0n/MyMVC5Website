@@ -43,12 +43,6 @@
 <section class="contact">
 
     <br />
-    @*<div class="content-wrapper">
-        <div class="resume-download">
-            <p>Download Resume: <a href="/Content/Documents/RichardHollonResume2015.pdf" target="_blank">.pdf</a></p>
-        </div>
-    </div>*@
-    <br />
 
     <header>
         <h2>Objective</h2>
@@ -95,13 +89,13 @@
         <h2>Experience</h2>
     </header>
 
-
     <div id="accordion1" class="accordion">
 
         <h3 class="accordion-heading">Texas Education Agency - Programmer V (.NET) - Austin, Texas - Feb 2014 – present</h3>
         <div class="accordion-group">
             <ul>
                 <li>Maintained, supported and enhanced eGrants, a legacy ASP.NET 3.5 web application distributing $20 billion yearly in education grants for Texas public school funding.</li>
+                <li>Maintained, supported and enhanced the Consolidated Entitlement Management System (CEMS), a legacy MVC web application, used for allocating and calculating monies for Texas public schools. Assisted in upgrading CEMS to MVC 5/SQL 2012.</li>
                 <li>Upgraded Java 7 SE executables (.JAR) for the IBM FileNet eProcess platform, resulting in a major bug fix for all eGrants users.</li>
                 <li>Implemented updates to the No Child Left Behind 2014 schedule for federal and state compliancy.</li>
                 <li>Assisted in TEA's domain name transition from www.tea.state.tx.us to tea.texas.gov. Updated approximately 1200 URLs in eGrants domain via PowerShell scripting.</li>
@@ -109,6 +103,7 @@
                 <li>Refactored legacy Windows scheduled tasks and SQL scripts designed for replicating reporting data nightly between two databases. Consolidated SQL statements (10,000+ lines) into reusable and transactional rollback components, with verbose logging and email notifications.</li>
                 <li>Expanded application-wide custom exception publishing into specific code targets for logging verbosity of untraceable exceptions. Added user information, class/method names and custom messages into exception details for exception publishing following specific TEA protocol.</li>
                 <li>Refactored 2000+ lines of IBM’s FileNet DAL code, removing critical dependency for producing Grant Program menu links (URLs). This resulted in alleviating the public facing web server of over 60,000 unnecessary network calls in a 9 month span. Used embedded resource bypassing any network activity all together, resolving production IIS errors.</li>
+                <li> Stream-lined, automated and published the deployment process, via PowerShell and Microsoft Word, adhering to IT/SEDS policies and TEA procedures. Auto-generated deployment request documents (hyperlinks, release numbers, dates, file paths, etc.) into properly formatted government document, used by all TEA application teams. This is being used by all IT projects within TEA now.</li>
                 <li>Supported, modified, maintained eGrants CruiseControl.NET build server.</li>
             </ul>
         </div>

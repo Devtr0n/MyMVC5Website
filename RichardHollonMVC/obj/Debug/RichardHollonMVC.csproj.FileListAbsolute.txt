@@ -52,4 +52,3 @@ C:\Workspace\RichardHollonMVC\RichardHollonMVC\bin\Microsoft.Owin.Security.Twitt
 C:\Workspace\RichardHollonMVC\RichardHollonMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Workspace\RichardHollonMVC\RichardHollonMVC\obj\Debug\RichardHollonMVC.dll
 C:\Workspace\RichardHollonMVC\RichardHollonMVC\obj\Debug\RichardHollonMVC.pdb
-C:\Workspace\RichardHollonMVC\RichardHollonMVC\obj\Debug\RichardHollonMVC.csprojResolveAssemblyReference.cache

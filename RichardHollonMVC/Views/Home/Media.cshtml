@@ -7,15 +7,28 @@
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
 <script type="text/javascript" src="~/Scripts/gmap3.min.js"></script>
 
+<!-- Google Analytics Script -->
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-44775720-1', 'richardhollon.com');
+    ga('send', 'pageview');
+</script>
+
 <div id="media">
     <h2><a href="http://www.instagram.com/nekotakacho" target="_blank">My Random Instagram Photos</a></h2>
 
-    @*@foreach (var image in RandomizerHelper.Shuffle(InstagramHelper.GetInstagramFeed()).Take(28))
+    @foreach (var image in RandomizerHelper.Shuffle(InstagramHelper.GetInstagramFeed()).Take(28))
     {
         <a href="@Url.Content(image.Link)" target="_blank" title="@Url.Content(image.Caption)">
             <img src="@Url.Content(image.URL)" alt="@Url.Content(image.Caption)" />
         </a>
-    }*@
+    }
 
     <h2>My Travel Map</h2>
     <div id="my_map"></div>
@@ -36,7 +49,7 @@
     <h2>Random Web Links</h2>
 
     <ul>
-        @foreach (var item in HyperlinksHelper.GetRandomizedHyperlinks())
+        @foreach (var item in RandomizerHelper.Shuffle(HyperlinksHelper.GetRandomizedHyperlinks()).Take(10))
         {
             <li><a target="_blank" href="@item.URL">@item.Title</a></li>
         }
@@ -123,8 +136,6 @@
               { latLng: [50.093433, 8.949447], data: "Großauheim - Hanau, Germany ." },
               { latLng: [50.113905, 8.908076], data: "Steinheim - Hanau, Germany ." },
               { latLng: [38.849334, -77.306698], data: "Fairfax, Virginia." }
-
-
               /*
               Bahrain
               */
